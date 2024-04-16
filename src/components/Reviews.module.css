@@ -1,0 +1,37 @@
+.reviews_container {
+    min-height: 551px;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+.reviews_list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.li_list {
+    width: 400px;
+    min-height: 130px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 2px solid black;
+}
+
+.review_author {
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.review_text {
+    margin-bottom: 6px;
+}
+
+.review_rating {
+    margin-bottom: 6px;
+}

@@ -1,0 +1,36 @@
+.main_container {
+    min-height: 572px;
+}
+
+.content {
+    list-style: none;
+}
+
+.item_cart {
+    display: flex;
+    padding: 20px;
+    border: 2.5px solid black;
+    margin-top: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contant_conteiner {
+    display: flex;
+    flex-direction: row;
+    justify-content: sp;
+}
+
+.image_cart {
+    width: 250px;
+    height: 150px;
+}
+
+span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.sum {
+    margin-top: 30px;
+}

@@ -1,0 +1,10 @@
+
+
+.background {
+    position: relative;
+    width: 1440px;
+    height: 600px;
+    background-image: url("../../images/ivan-torre.jpeg");
+    background-position: top;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,27 @@
+.information_about_us {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 168px;
+}
+
+.information_about_us_container {
+    margin-right: 800px;
+}
+
+.contact_with_us {
+    color: #000000;
+    font-family: "Bebas Neue";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 650;
+    line-height: normal;
+}
+
+.information_about_us_text {
+    color: #000000;
+    font-family: "Bebas Neue";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 650;
+    line-height: normal;
+}

@@ -1,0 +1,114 @@
+.main_section {
+    background-image: url(../images/hemant-latawa-IfQlwNqJqV8-unsplash\ 1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.description_head_line {
+    width: 1440px;
+    height: 20px;
+    background-color: #2E2E2E;
+}
+
+.description_main_head_line {
+    width: 357px;
+    height: 44px;
+    margin: 0 auto;
+    background-color: #2E2E2E;
+}
+
+.description_head_text {
+    color: #FFF;
+    text-align: center;
+    font-family: "Bebas Neue";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.description_about_head_text {
+    margin-bottom: 30px;
+    padding-top: 45px;
+    color: #2E2E2E;
+    text-align: center;
+    font-family: "Bebas Neue";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.description_conteiner {
+    text-align: center;
+}
+
+.description_image {
+    margin-bottom: 30px;
+}
+
+.description_text {
+    margin: 0 auto;
+    width: 487px;
+    color: #2E2E2E;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.places_come_head_text {
+    margin-bottom: 69px;
+    margin-top: 50px;
+    text-align: center;
+    color: #2E2E2E;
+    text-align: center;
+    font-family: "Bebas Neue";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.places_adress_and_time {
+    width: 689px;
+    margin: 0 auto;
+    margin-bottom: 59px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 690px;
+    color: #2E2E2E;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33px;
+}
+
+.places_button_container {
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+    margin-bottom: 61px;
+    width: 299px;
+    height: 61px;
+    border: 4px solid #2E2E2E;
+}
+
+.places_button {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 10px;
+    color: #2E2E2E;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33px;
+}

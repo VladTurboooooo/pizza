@@ -1,0 +1,103 @@
+.PizzaDetails {
+    margin-bottom: 10px;
+}
+
+.addToCartButton {
+    display: flex;
+    width: 205px;
+    height: 35px;
+    background-color: rgb(0, 106, 255);
+    font-weight: 600;
+    border-radius: 4px;
+    text-align: center;
+    align-items: center;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.checkout1 {
+    width: 20px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.checkout2 {
+    font-weight: bold;
+}
+
+.quantityContainer {
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.quantityContainer p{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.ingredients_list {
+    text-decoration: none;
+}
+
+.ingredients_list li {
+    margin-left: 25px;
+}
+
+.details {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.list_reviews {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.review_item {
+    width: auto;
+    display: inline-block;
+    padding: 10px;
+    margin-right: auto;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+.reviews_main_text {
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.form_review {
+    display: flex;
+    flex-direction: column;
+}
+
+.input_review {
+    width: 500px;
+    height: 150px;
+}
+
+.button_review {
+    width: 100px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: rgb(0, 162, 255);
+    margin-top: 10px;
+}
+
+.detailsImg {
+    width: 435px;
+    height: 320px;
+    border-radius: 3px;
+}
